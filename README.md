@@ -151,11 +151,10 @@ A Star Schema was implemented to improve query performance and maintain a scalab
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of each dashboard page inside the `images/` folder and reference them here.
+> Imaages are available in the repository.
 
 Example:
 
-```
 images/
 ├── executive-overview.png
 ├── sales-analysis.png
@@ -163,7 +162,6 @@ images/
 ├── product-seller-analysis.png
 ├── delivery-logistics.png
 └── customer-satisfaction.png
-```
 
 ---
 
