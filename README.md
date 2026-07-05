@@ -151,7 +151,28 @@ A Star Schema was implemented to improve query performance and maintain a scalab
 
 ## 📷 Dashboard Preview
 
-> Imaages are available in the repository.
+Executive Overviwe
+<img width="1541" height="860" alt="executive-overview" src="https://github.com/user-attachments/assets/6e197d75-6610-46d3-919f-df44dd996c44" />
+
+
+Sales Analysis
+<img width="1518" height="858" alt="sales-analysis" src="https://github.com/user-attachments/assets/429f096d-c662-4243-977f-ce741ede7157" />
+
+
+Customer Analysis
+<img width="1530" height="853" alt="customer-analysis" src="https://github.com/user-attachments/assets/f7b37041-06d8-4861-9180-35b279632023" />
+
+
+Seller Analysis
+<img width="1470" height="838" alt="seller-analysis" src="https://github.com/user-attachments/assets/1c9b96f2-a309-4505-b871-289e5ee9977f" />
+
+
+Delivery Analysis
+<img width="1478" height="840" alt="delivery-analysis" src="https://github.com/user-attachments/assets/3cdbb581-1ab3-49ed-86ba-6056e8f96cee" />
+
+
+Customer Satisfaction
+<img width="1472" height="845" alt="customer-satisfaction" src="https://github.com/user-attachments/assets/9e14c07a-259b-4045-bf5b-ffdc339a88e7" />
 
 Example:
 
